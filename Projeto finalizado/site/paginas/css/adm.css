@@ -1,0 +1,19 @@
+.btnPdf{
+    height: 90px;
+    width: 90px;
+}   
+
+.c1{
+    background:#3c3d41;
+    height: 300px;
+}
+
+@media screen and (max-width: 350px){
+    body{
+      display: grid;
+    }
+}
+
+.titulo1{
+    color: #47a942;
+}
